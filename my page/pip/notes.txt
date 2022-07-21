@@ -1,0 +1,12 @@
+genrated by functions	
+	avrage like counter : pagname,like neaded
+	viral finder :  pagename,postURL,expath of post
+	page domloder : index
+need of funcations 
+	avrage like counter : pagename
+	viral finder : pagename,like neeaded,expath
+	page domloder : page URL,location
+loops neadded : 
+	avrage like counter : pagename
+	vial finder :pagenane,likeneadded,expath
+	page domloder : page URL , location , index
